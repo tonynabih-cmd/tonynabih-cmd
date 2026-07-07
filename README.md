@@ -226,31 +226,11 @@ Supported cybersecurity awareness and operational technology initiatives within 
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tonynabih-cmd&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="90%" />
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonynabih-cmd&theme=react-dark&bg_color=1a0033&color=A855F7&line=8b2fc9&point=c9b8f0&hide_border=true" width="90%" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/tonynabih-cmd/tonynabih-cmd/output/github-contribution-grid-snake.svg)
 
 </div>
 
