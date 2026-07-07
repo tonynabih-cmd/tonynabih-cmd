@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a0033,50:2d0a5c,100:6a1cb3&amp;height=220&amp;section=header&amp;text=Anthony%20Lotfy&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20Cybersecurity%20Engineering%20%7C%20SOC%20%7C%20Penetration%20Testing%20%7C%20Digital%20Forensics&amp;descAlignY=55&amp;descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:2d0a5c,100:6a1cb3&height=220&section=header&text=Anthony%20Lotfy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20and%20Cybersecurity%20Engineering%20%7C%20SOC%20%7C%20Penetration%20Testing%20%7C%20Digital%20Forensics&descAlignY=55&descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=AI+%2B+Cybersecurity+Engineering+Student;Junior+Penetration+Tester;SOC+%2F+Blue+Team+Focused;AI+%26+Digital+Forensics+Project+Builder;Secure+Software+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=AI+%2B+Cybersecurity+Engineering+Student;Junior+Penetration+Tester;SOC+%2F+Blue+Team+Focused;AI+and+Digital+Forensics+Project+Builder;Secure+Software+Engineering" alt="Typing SVG" />
 
 <br/>
 
@@ -215,12 +215,12 @@ Supported cybersecurity awareness and operational technology initiatives within 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tonynabih-cmd&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1a0033&amp;title_color=A855F7&amp;icon_color=8b2fc9&amp;text_color=c9b8f0" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonynabih-cmd&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1a0033&amp;title_color=A855F7&amp;text_color=c9b8f0" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=tonynabih-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a0033&title_color=A855F7&icon_color=8b2fc9&text_color=c9b8f0" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonynabih-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a0033&title_color=A855F7&text_color=c9b8f0" width="48%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=tonynabih-cmd&amp;theme=tokyonight&amp;hide_border=true&amp;background=1a0033&amp;ring=A855F7&amp;fire=8b2fc9&amp;currStreakLabel=c9b8f0" width="60%" />
+<img src="https://streak-stats.demolab.com?user=tonynabih-cmd&theme=tokyonight&hide_border=true&background=1a0033&ring=A855F7&fire=8b2fc9&currStreakLabel=c9b8f0" width="60%" />
 
 </div>
 
@@ -230,7 +230,7 @@ Supported cybersecurity awareness and operational technology initiatives within 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tonynabih-cmd&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=6&amp;margin-w=8" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=tonynabih-cmd&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="90%" />
 
 </div>
 
@@ -240,7 +240,7 @@ Supported cybersecurity awareness and operational technology initiatives within 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tonynabih-cmd&amp;theme=react-dark&amp;bg_color=1a0033&amp;color=A855F7&amp;line=8b2fc9&amp;point=c9b8f0&amp;hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tonynabih-cmd&theme=react-dark&bg_color=1a0033&color=A855F7&line=8b2fc9&point=c9b8f0&hide_border=true" width="90%" />
 
 </div>
 
@@ -298,6 +298,6 @@ open_to:
 
 > Artificial Intelligence. Cybersecurity. Secure Software Engineering.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6a1cb3,50:2d0a5c,100:1a0033&amp;height=120&amp;section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a1cb3,50:2d0a5c,100:1a0033&height=120&section=footer" />
 
 </div>
