@@ -170,6 +170,23 @@ AI-powered digital evidence authenticity and provenance platform designed to sup
 
 </details>
 
+<details>
+<summary><b>CVSS Ensemble Predictor</b></summary>
+
+<br/>
+
+AI-based vulnerability assessment platform that predicts all eight CVSS v3.1 base metrics from vulnerability descriptions and calculates official CVSS scores and severity levels.
+
+| | |
+|---|---|
+| **Stack** | Python, FastAPI, React, PyTorch, Scikit-learn, DeBERTa |
+| **Focus** | Vulnerability scoring, NLP, ensemble learning, secure software assessment |
+| **Research** | Leakage-resistant dataset, locked test set, reproducible evaluation |
+| **Impact** | Ensemble model achieved statistically significant gains over the TF-IDF baseline |
+| **Repository** | [View Repository](https://github.com/AnthonyLotfy/cvss-ensemble-predictor) |
+
+</details>
+
 ---
 
 ## Experience
