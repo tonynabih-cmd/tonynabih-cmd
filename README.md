@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:2d0a5c,100:6a1cb3&height=220&section=header&text=Anthony%20Lotfy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20and%20Cybersecurity%20Engineering%20%7C%20SOC%20%7C%20Penetration%20Testing%20%7C%20Digital%20Forensics&descAlignY=55&descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=AI+%2B+Cybersecurity+Engineering+Student;Junior+Penetration+Tester;SOC+%2F+Blue+Team+Focused;AI+and+Digital+Forensics+Project+Builder;Secure+Software+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Cybersecurity+Engineering+Graduate;Junior+Penetration+Tester;SOC+%2F+Blue+Team+Focused;AI+and+Digital+Forensics+Project+Builder;Secure+Software+Engineering" alt="Typing SVG" />
 
 <br/>
 
 ![Location](https://img.shields.io/badge/Location-Abu%20Dhabi%2C%20UAE-6a1cb3?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Status](https://img.shields.io/badge/B.Sc.%20Cybersecurity%20Engineering-Student-8b2fc9?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![Status](https://img.shields.io/badge/B.Sc.%20Cybersecurity%20Engineering-Graduate-8b2fc9?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20Lotfy-6a1cb3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-lotfy-167431263)
 [![Email](https://img.shields.io/badge/Email-Anthony.nabih%40outlook.com-8b2fc9?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:Anthony.nabih@outlook.com)
